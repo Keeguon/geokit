@@ -5,9 +5,9 @@ require 'geokit/version'
 Gem::Specification.new do |s|
   s.name        = "geokit"
   s.version     = Geokit::VERSION
-  s.authors     = ["James Cox, Andre Lewis & Bill Eisenhauer"]
+  s.authors     = ["James Cox, Andre Lewis & Bill Eisenhauer", "Félix Bellanger"]
   s.email       = ["james+geokit@imaj.es"]
-  s.homepage    = "https://github.com/imajes/geokit-gem"
+  s.homepage    = "https://github.com/geokit/geokit"
 
   s.summary     = %q{Geokit: encoding and distance calculation gem}
   s.description = %q{Geokit provides geocoding and distance calculation in an easy-to-use API}
